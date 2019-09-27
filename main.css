@@ -1,0 +1,88 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	min-height: 720px;
+}
+
+h1 {
+	margin: 0px;
+}
+
+.size-80px {
+	font-size: 80px;
+}
+
+.size-50px {
+	font-size: 50px;
+	text-shadow: none !important;
+}
+
+.size-60px {
+	font-size: 60px;
+}
+
+.poppins {
+	font-family: 'Poppins', sans-serif;
+	text-shadow: 0px 2px 2px #292929;
+}
+.niconne {
+	font-family: 'Niconne', cursive;
+	text-shadow: 0px 2px 2px #292929;
+}
+
+.header {
+	width: 100%;
+	height: 80vh;
+	background-image: url("img/main-header.jpg");
+	background-attachment: fixed;
+	color: #fff;
+}
+
+.seperator {
+	width: 80px;
+	height: 8px;
+	background-color: #52c5c5;
+}
+
+.about {
+	margin: 40px 0px;
+	width: 100%;
+	height: 85vh;
+}
+
+.programming {
+	margin: 40px 0px;
+	width: 100%;
+	height: 85vh;
+}
+
+
+/**Brand icons default colours**/
+.fa-facebook-square {
+	color: #3b5998;
+}
+
+.fa-twitter-square {
+	color: #55acee;
+}
+
+.fa-instagram {
+	color: #3f729b;
+}
+
+.fa-github-square {
+	color: #333;
+}
+
+.fa-youtube-square {
+	color: #e52d27;
+}
+
+.footer {
+	width: 100%;
+	height: 50vh;
+	background-size: cover;
+	background-image: url("img/back.png");
+	background-attachment: fixed;
+	color: #fff;
+}
